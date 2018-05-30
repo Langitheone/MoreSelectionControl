@@ -1,0 +1,39 @@
+Algorithm
+Input
+Design a algorithm for three letters
+Processing Steps
+Sort the letters into ascending sequence
+Output 
+Display them to the monitor
+--------------------------------------------
+Algorithm
+compute the sals tax and total amount due, print customer name,purchase amount,sales tax, and total amount due.
+Input
+tax codes
+customer name
+Output
+sales tax
+total_amaount_due
+customer name
+purchase amount
+Processing Steps
+read customer name,
+tax code percent=0
+ tax code = 1 then
+ tax code = 3
+-----------------------------------------------
+Algorithm
+Validate the pay rate field and hours worked for the week, must include the employee pay for the week.
+
+Input
+The amount of hrs worked (60)
+The hrly pay (25.00)
+
+Output
+Hrs . Pay = total
+
+Processing Steps
+Find total hours worked
+hourly pay 
+Multiply total hours . pay
+print the appropiate message  on the employees weekly pay.
